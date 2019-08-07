@@ -1,57 +1,41 @@
 [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-
-    "address": {
-
-      
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      
-    },
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      
-    }
-  },
-  {
-    "id": 2,
-    "name": "Leanne Graham",
-    "username": "Bret",
-
-    "address": {
-
-      
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      
-    },
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      
-    }
-  },
-  {
-    "id": 3,
-    "name": "Leanne Graham",
-    "username": "Bret",
-
-    "address": {
-
-      
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      
-    },
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      
-    }
-  }
-
+   {
+      "id":1,
+      "name":"Leanne Graham",
+      "username":"Bret",
+      "address":{
+         "city":"Gwenborough",
+         "zipcode":"92998-3874"
+      },
+      "website":"hildegard.org",
+      "company":{
+         "name":"Romaguera-Crona"
+      }
+   },
+   {
+      "id":2,
+      "name":"Leanne Graham",
+      "username":"Bret",
+      "address":{
+         "city":"Gwenborough",
+         "zipcode":"92998-3874"
+      },
+      "website":"hildegard.org",
+      "company":{
+         "name":"Romaguera-Crona"
+      }
+   },
+   {
+      "id":3,
+      "name":"Leanne Graham",
+      "username":"Bret",
+      "address":{
+         "city":"Gwenborough",
+         "zipcode":"92998-3874"
+      },
+      "website":"hildegard.org",
+      "company":{
+         "name":"Romaguera-Crona"
+      }
+   }
 ]
